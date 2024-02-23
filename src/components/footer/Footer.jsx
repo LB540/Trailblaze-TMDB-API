@@ -36,7 +36,7 @@ const Footer = () => {
         <br />
         <div className="socialIcons">
           <span className="icon">
-            <a to="https://github.com/LB540?tab=repositories">
+            <a to="https://github.com/LB540">
               <FaGithub />
             </a>
           </span>
